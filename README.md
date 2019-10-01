@@ -1,2 +1,2 @@
-# java-eg
+# java-eg study day
 example
